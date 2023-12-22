@@ -1,0 +1,14 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\kichi\\Dropbox\\PC\\Desktop\\JAITA-Workspace\\Libreria.jar",
+        "c:\\Users\\kichi\\Dropbox\\PC\\Desktop\\JAITA-Workspace\\sqlite-jdbc-3.44.1.0.jar",
+        "c:\\Users\\kichi\\Dropbox\\PC\\Desktop\\JAITA-Workspace\\slf4j-api-2.0.9.jar",
+        "c:\\Users\\kichi\\Dropbox\\PC\\Desktop\\JAITA-Workspace\\librerie\\mysql-connector-j-8.2.0.jar",
+        "c:\\Users\\kichi\\Dropbox\\PC\\Desktop\\JAITA-Workspace\\librerie\\Libreria.jar",
+        "c:\\Users\\kichi\\Dropbox\\PC\\Desktop\\JAITA-Workspace\\librerie\\sqlite-jdbc-3.44.1.0(1).jar",
+        "c:\\Users\\kichi\\Dropbox\\PC\\Desktop\\JAITA-Workspace\\librerie\\sqlite-jdbc-3.44.1.0.jar"
+    ]
+}
